@@ -2528,6 +2528,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [scc](https://github.com/boyter/scc) - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 * [Seaweed File System](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 * [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
+* [ShellHub](https://www.shellhub.io/) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
 * [snap](https://github.com/intelsdi-x/snap) - Powerful telemetry framework.
 * [Snitch](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 * [Stack Up](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
